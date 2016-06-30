@@ -1,0 +1,3 @@
+# Haiku-Contributor-Guide
+
+Test
